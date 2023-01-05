@@ -1,0 +1,5 @@
+github:
+https://github.com/NadaHusein/udacityFullStackApplication
+
+elasticbeanstalk endpoint:
+Secondprojectudacity-env.eba-heg9g8yz.us-east-1.elasticbeanstalk.com
